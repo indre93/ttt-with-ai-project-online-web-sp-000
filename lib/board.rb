@@ -89,5 +89,4 @@ class Board
   end
 
 
->>>>>>> f18be614d7d422eae873a588a0fd7b5d670e8030
 end
