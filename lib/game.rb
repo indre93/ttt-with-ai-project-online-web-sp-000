@@ -57,3 +57,5 @@ class Game
     puts "Congratulations #{winner}!" if won?
     puts "Cat's Game!" if draw?
   end
+
+end
